@@ -1,4 +1,4 @@
-##BELGASIM Outhmane
+
 ## About me
 
 I am a software engineer with a strong foundation in full-stack web development and a deep interest in DevOps and cloud infrastructure. I build reliable, maintainable web applications and enjoy the challenge of designing systems that scale. Outside of development, I spend time exploring network architecture, automation, and cloud technologies — areas I find as compelling as writing code.
