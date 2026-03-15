@@ -1,4 +1,3 @@
-
 ## About me
 
 I am a software engineer with a strong foundation in full-stack web development and a deep interest in DevOps and cloud infrastructure. I build reliable, maintainable web applications and enjoy the challenge of designing systems that scale. Outside of development, I spend time exploring network architecture, automation, and cloud technologies — areas I find as compelling as writing code.
@@ -44,5 +43,17 @@ Hands-on experience with Cisco networking, GNS3 simulation, and low-level system
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
 ![GNS3](https://img.shields.io/badge/GNS3-FF6600?style=flat&logo=gns3&logoColor=white)
+
+**Virtualization**
+
+![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)
+![Herd](https://img.shields.io/badge/Laravel%20Herd-FF2D20?style=flat&logo=laravel&logoColor=white)
+
+**Design and modeling**
+
+![UML](https://img.shields.io/badge/UML-FABD14?style=flat&logo=uml&logoColor=black)
